@@ -18,11 +18,7 @@ Month = str(input("Enter Month Number: "))
 if Month == "1":
     print(month["1"])
 elif Month == "2":
-    leap_year = str(input("Leap Year?: "))
-    if leap_year.lower() == "yes":
-        print("29")
-    else:
-        print(month["2"])
+    print(month["2"])
 elif Month == "3":
     print(month["3"])
 elif Month == "4":
