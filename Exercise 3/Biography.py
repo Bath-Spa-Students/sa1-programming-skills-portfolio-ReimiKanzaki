@@ -4,4 +4,5 @@ Biography = {"Name" : 'Vicfirth Garcia' ,
              "Hometown" : 'Sharjah, UAE' ,
             "Age" : 19}
 
-print(Biography.items())
+for key, value in Biography.items():
+    print(key,': ',value)
