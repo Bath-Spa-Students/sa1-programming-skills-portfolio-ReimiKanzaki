@@ -9,6 +9,6 @@ def main():
 
     if even(number):
         print("The Number", number, "is Even")
-    elif odd(number): #if remainder is 1 it is odd
+    elif odd(number):
         print("The Number", number,"Is Odd")
 main()
