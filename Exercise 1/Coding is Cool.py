@@ -9,4 +9,4 @@ word2 = "is"
 word3 = "Cool"
 # Use string concatenation to combine the variables and print the phrase
 
-print("Coding " + "is " + "Cool")
+print("Coding " + "Is " + "Cool")
