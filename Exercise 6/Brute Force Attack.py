@@ -1,7 +1,6 @@
 #Brute Force Attack
 
 Password = "12345"
-UserInput = ""
 Attempts = 5
 
 while Attempts >0:
